@@ -1,0 +1,875 @@
+courseId,courseName,courseTime,courseTeacher,capacity,numSelected
+1,(ISC)² Systems Security Certified Practitioner (SSCP),1,(ISC)²,1000,5.3
+2,A Crash Course in Causality:  Inferring Causal Effects from Observational Data,2,University of Pennsylvania,1001,17
+3,A Crash Course in Data Science,3,Johns Hopkins University,1002,130
+4,A Law Student's Toolkit,4,Yale University,1003,91
+5,A Life of Happiness and Fulfillment,5,Indian School of Business,1004,320
+6,ADHD: Everyday Strategies for Elementary Students,6,University at Buffalo,1005,39
+7,AI For Everyone,7,deeplearning.ai,1006,350
+8,AI For Medical Treatment,8,deeplearning.ai,1007,2.4
+9,AI Foundations for Everyone,9,IBM,1008,61
+10,AI for Medical Diagnosis,10,deeplearning.ai,1009,12
+11,AI for Medical Prognosis,11,deeplearning.ai,1010,4
+12,AI for Medicine,12,deeplearning.ai,1011,13
+13,AWS Fundamentals,13,Amazon Web Services,1012,130
+14,AWS Fundamentals: Addressing Security Risk,14,Amazon Web Services,1013,11
+15,AWS Fundamentals: Building Serverless Applications,15,Amazon Web Services,1014,27
+16,AWS Fundamentals: Going Cloud-Native,16,Amazon Web Services,1015,110
+17,AWS Fundamentals: Migrating to the Cloud,17,Amazon Web Services,1016,13
+18,Aboriginal Worldviews and Education,18,University of Toronto,1017,6.6
+19,Academic English: Writing,19,"University of California, Irvine",1018,540
+20,Accelerated Computer Science Fundamentals,20,University of Illinois at Urbana-Champaign,1019,22
+21,Access Controls,21,(ISC)²,1020,2.9
+22,Accounting Analytics,22,University of Pennsylvania,1021,80
+23,Accounting for Decision Making,23,University of Michigan,1022,9.9
+24,Achieving Personal and Professional Success,24,University of Pennsylvania,1023,110
+25,Actualización en el manejo del paciente con diabetes mellitus tipo 2,25,Universidad Nacional Autónoma de México,1024,23
+26,Addiction Treatment: Clinical Skills for Healthcare Providers,26,Yale University,1025,9.2
+27,Advanced Business Analytics,27,University of Colorado Boulder,1026,78
+28,Advanced Data Science with IBM,28,IBM,1027,320
+29,Advanced Machine Learning,29,National Research University Higher School of Economics,1028,190
+30,Advanced Machine Learning with TensorFlow on Google Cloud Platform,30,Google Cloud,1029,35
+31,"Advanced Valuation and Strategy - M&A, Private Equity, and Venture Capital",31,Erasmus University Rotterdam,1030,29
+32,Advertising and Society,32,Duke University,1031,14
+33,Age of Cathedrals,33,Yale University,1032,21
+34,Agile Development,34,University of Virginia,1033,94
+35,Agile Meets Design Thinking,35,University of Virginia,1034,69
+36,Agile with Atlassian Jira,36,Atlassian,1035,40
+37,Agile и Scrum в _або_е над п_оек_ами и п_од_к_ами,37,ScrumTrek,1036,12
+38,Algorithmic Toolbox,38,University of California San Diego,1037,220
+39,Algorithms,39,Stanford University,1038,150
+40,Algorithms for Battery Management Systems,40,University of Colorado System,1039,14
+41,American Contract Law I,41,Yale University,1040,18
+42,An Introduction to American Law,42,University of Pennsylvania,1041,23
+43,An Introduction to Consumer Neuroscience & Neuromarketing,43,Copenhagen Business School,1042,69
+44,An Introduction to Programming the Internet of Things (IOT),44,"University of California, Irvine",1043,270
+45,Analysing: Numeric and digital literacies,45,Macquarie University,1044,7.9
+46,Anatomy,46,University of Michigan,1045,30
+47,"Anatomy of the Chest, Abdomen, and Pelvis",47,Yale University,1046,36
+48,Anatomy: Musculoskeletal and Integumentary Systems,48,University of Michigan,1047,20
+49,Ancient Philosophy: Aristotle and His Successors,49,University of Pennsylvania,1048,8.1
+50,Android App Development,50,Vanderbilt University,1049,120
+51,Animal Behaviour and Welfare,51,The University of Edinburgh,1050,71
+52,Antibiotic Stewardship,52,Stanford University,1051,11
+53,Anticorrupción: Introducción a conceptos y perspectiva práctica,53,Universidad Nacional Autónoma de México,1052,11
+54,Antimicrobial resistance - theory and methods,54,Technical University of Denmark (DTU),1053,63
+55,Applied Data Science,55,IBM,1054,220
+56,Applied Data Science Capstone,56,IBM,1055,42
+57,Applied Data Science with Python,57,University of Michigan,1056,480
+58,Applied Machine Learning in Python,58,University of Michigan,1057,150
+59,"Applied Plotting, Charting & Data Representation in Python",59,University of Michigan,1058,97
+60,Aprende a programar con Python,60,Universidad Austral,1059,6.6
+61,Aprender,61,Universidad Nacional Autónoma de México,1060,200
+62,Aprendiendo a aprender: Poderosas herramientas mentales con las que podrás dominar temas difíciles (Learning How to Learn),62,University of California San Diego,1061,180
+63,Architecting with Google Cloud Platform _��_�__,63,Google Cloud,1062,4.2
+64,Architecting with Google Compute Engine,64,Google Cloud,1063,310
+65,Architecting with Google Kubernetes Engine _��_�__,65,Google Cloud,1064,3.9
+66,Arizona State University TESOL,66,Arizona State University,1065,150
+67,Art & Activity: Interactive Strategies for Engaging with Art,67,The Museum of Modern Art,1066,79
+68,Art & Ideas: Teaching with Themes,68,The Museum of Modern Art,1067,31
+69,Arts and Culture Strategy,69,National Arts Strategies,1068,15
+70,Arts and Heritage Management,70,Universit_ Bocconi,1069,15
+71,Aspectos básicos de la planificación y la gestión de proyectos,71,University of Virginia,1070,10
+72,Astrobiology and the Search for Extraterrestrial Life,72,The University of Edinburgh,1071,66
+73,Atención Primaria en Salud: El desafío de las Enfermedades no Transmisibles,73,Pontificia Universidad Católica de Chile,1072,33
+74,Autism Spectrum Disorder,74,"University of California, Davis",1073,56
+75,Autodesk CAD/CAM for Manufacturing,75,Autodesk,1074,7.3
+76,Autodesk CAD/CAM/CAE for Mechanical Engineering,76,Autodesk,1075,9.2
+77,Autodesk Certified Professional: AutoCAD for Design and Drafting Exam Prep,77,Autodesk,1076,22
+78,Autodesk Certified Professional: Revit for Architectural Design Exam Prep,78,Autodesk,1077,9.7
+79,BIM Fundamentals for Engineers,79,National Taiwan University,1078,13
+80,Basic Statistics,80,University of Amsterdam,1079,180
+81,Bayesian Statistics: From Concept to Data Analysis,81,"University of California, Santa Cruz",1080,91
+82,Bayesian Statistics: Techniques and Models,82,"University of California, Santa Cruz",1081,29
+83,Become a CBRS Certified Professional Installer by Google,83,Google - Spectrum Sharing,1082,210
+84,Become a Journalist: Report the News!,84,Michigan State University,1083,28
+85,Become a Sustainable Business Change Agent,85,University of Colorado System,1084,4.2
+86,Becoming a Sports Agent,86,Case Western Reserve University,1085,6.5
+87,Becoming a changemaker: Introduction to Social Innovation,87,University of Cape Town,1086,61
+88,Behavioral Finance,88,Duke University,1087,55
+89,Beyond the Sustainable Development Goals (SDGs): Addressing Sustainability and Development,89,University of Michigan,1088,2.3
+90,Big Data _ Introducción al uso práctico de datos masivos,90,Universitat Autònoma de Barcelona,1089,8.8
+91,Biohacking Your Brain's Health,91,Emory University,1090,35
+92,Biology Meets Programming: Bioinformatics for Beginners,92,University of California San Diego,1091,88
+93,Biostatistics in Public Health,93,Johns Hopkins University,1092,14
+94,Blended Language Learning: Design and Practice for Teachers,94,University of Colorado Boulder,1093,1.9
+95,Blockchain,95,University at Buffalo,1094,68
+96,Blockchain Revolution,96,INSEAD,1095,21
+97,Blockchain Revolution in Financial Services,97,INSEAD,1096,1.6
+98,Blockchain: Foundations and Use Cases,98,ConsenSys Academy,1097,31
+99,Boosting Creativity for Innovation,99,HEC Paris,1098,9.5
+100,"Brand Management: Aligning Business, Brand and Behaviour",100,London Business School,1099,57
+101,Branding: The Creative Journey,101,IE Business School,1100,26
+102,Budgeting and Scheduling Projects,102,"University of California, Irvine",1101,84
+103,Bugs 101: Insect-Human Interactions,103,University of Alberta,1102,15
+104,Build a Modern Computer from First Principles: From Nand to Tetris (Project-Centered Course),104,Hebrew University of Jerusalem,1103,95
+105,Building Batch Data Pipelines on GCP,105,Google Cloud,1104,7.3
+106,Building Conversational Experiences with Dialogflow,106,Google Cloud,1105,22
+107,Building Resilient Streaming Analytics Systems on GCP,107,Google Cloud,1106,5.8
+108,Building Scalable Java Microservices with Spring Boot and Spring Cloud,108,Google Cloud,1107,24
+109,Building Your Leadership Skills,109,HEC Paris,1108,67
+110,Business Analytics,110,University of Pennsylvania,1109,280
+111,Business English,111,Arizona State University,1110,38
+112,Business English Communication Skills,112,University of Washington,1111,120
+113,Business English: Networking,113,University of Washington,1112,77
+114,Business Foundations,114,University of Pennsylvania,1113,510
+115,Business Model Innovation,115,HEC Paris,1114,13
+116,Business Statistics and Analysis,116,Rice University,1115,110
+117,Business Strategies for A Better World,117,University of Pennsylvania,1116,24
+118,Business Strategy,118,University of Virginia,1117,89
+119,Business Technology Management,119,Indian School of Business,1118,67
+120,Business Transformation with Google Cloud,120,Google Cloud,1119,10
+121,Business Writing,121,University of Colorado Boulder,1120,48
+122,Business and Financial Modeling,122,University of Pennsylvania,1121,160
+123,C for Everyone: Programming Fundamentals,123,"University of California, Santa Cruz",1122,31
+124,C# Programming for Unity Game Development,124,University of Colorado System,1123,36
+125,COVID-19 Contact Tracing,125,Johns Hopkins University,1124,220
+126,COVID-19: What You Need to Know (CME Eligible),126,Osmosis,1125,32
+127,"Cameras, Exposure, and Photography",127,Michigan State University,1126,130
+128,Camino a la Excelencia en Gestión de Proyectos,128,Pontificia Universidad Católica de Chile,1127,340
+129,"Capstone: Retrieving, Processing, and Visualizing Data with Python",129,University of Michigan,1128,82
+130,Career Success,130,"University of California, Irvine",1129,790
+131,Challenging Forensic Science: How Science Should Speak to Court,131,University of Lausanne,1130,31
+132,Chemicals and Health,132,Johns Hopkins University,1131,23
+133,Chicken Behaviour and Welfare,133,The University of Edinburgh,1132,19
+134,Child Nutrition and Cooking,134,Stanford University,1133,30
+135,Chinese for HSK 1,135,Peking University,1134,22
+136,Cisco Networking Basics,136,Cisco,1135,57
+137,Classical Sociological Theory,137,University of Amsterdam,1136,51
+138,Claves de la Dirección de Empresas,138,IESE Business School,1137,51
+139,Climate Change and Health: From Science to Action,139,Yale University,1138,4.8
+140,Clinical Terminology for International and U.S. Students,140,University of Pittsburgh,1139,32
+141,Cloud Computing,141,University of Illinois at Urbana-Champaign,1140,110
+142,Cloud Computing Basics (Cloud 101),142,LearnQuest,1141,37
+143,Cloud Engineering with Google Cloud,143,Google Cloud,1142,310
+144,Coaching Skills for Managers,144,"University of California, Davis",1143,37
+145,Code Yourself! An Introduction to Programming,145,The University of Edinburgh,1144,120
+146,Communication Skills for Engineers,146,Rice University,1145,15
+147,Communication Strategies for a Virtual Age,147,University of Toronto,1146,43
+148,Compassionate Leadership Through Service Learning with Jane Goodall and Roots & Shoots,148,University of Colorado Boulder,1147,6.4
+149,"Competencias digitales. Herramientas de ofimática (Microsoft Word, Excel, Power Point)",149,Universitat Autònoma de Barcelona,1148,43
+150,Competitive Strategy and Organization Design,150,Ludwig-Maximilians-Universität München (LMU),1149,350
+151,Computational Social Science,151,"University of California, Davis",1150,5.8
+152,Computational Thinking for Problem Solving,152,University of Pennsylvania,1151,33
+153,Computer Security and Systems Management,153,University of Colorado System,1152,27
+154,Conflict Management,154,"University of California, Irvine",1153,66
+155,Construction Cost Estimating and Cost Control,155,Columbia University,1154,19
+156,Construction Management,156,Columbia University,1155,61
+157,Construction Project Management,157,Columbia University,1156,43
+158,Construction Scheduling,158,Columbia University,1157,15
+159,Contabilidad para no contadores,159,Universidad Nacional Autónoma de México,1158,220
+160,Content Strategy for Professionals,160,Northwestern University,1159,27
+161,Continuous Delivery & DevOps,161,University of Virginia,1160,26
+162,Control of Mobile Robots,162,Georgia Institute of Technology,1161,49
+163,Convolutional Neural Networks,163,deeplearning.ai,1162,240
+164,Convolutional Neural Networks in TensorFlow,164,deeplearning.ai,1163,46
+165,Corporate & Commercial Law I: Contracts & Employment Law,165,University of Illinois at Urbana-Champaign,1164,10
+166,Corporate Finance Essentials,166,IESE Business School,1165,56
+167,Corporate Strategy,167,UCL School of Management,1166,7.8
+168,Corporate Sustainability. Understanding and Seizing the Strategic Opportunity,168,Universit_ Bocconi,1167,10
+169,"Corrección, estilo y  variaciones de la lengua española",169,Universitat Autònoma de Barcelona,1168,75
+170,Cost and Economics in Pricing Strategy,170,University of Virginia,1169,15
+171,Costos para los Negocios,171,Universidad de Chile,1170,43
+172,Crash Course on Python,172,Google,1171,81
+173,Creative Problem Solving,173,University of Minnesota,1172,140
+174,Creative Writing,174,Wesleyan University,1173,140
+175,Creative Writing: The Craft of Plot,175,Wesleyan University,1174,120
+176,"Creatividad, diseño e innovación: Técnicas y herramientas",176,Arizona State University,1175,150
+177,Cuidado de heridas en el ámbito hospitalario,177,Universidad Nacional Autónoma de México,1176,26
+178,Cuidados y procedimientos generales en la atención del recién nacido,178,Universidad de Chile,1177,22
+179,Culture-Driven Team Building,179,University of Pennsylvania,1178,17
+180,Curanderismo: Traditional Healing Using Plants,180,University of New Mexico,1179,5.5
+181,Customer Segmentation and Prospecting,181,Northwestern University,1180,18
+182,Cybersecurity,182,"University of Maryland, College Park",1181,99
+183,Cybersecurity and Its Ten Domains,183,University System of Georgia,1182,140
+184,Cybersecurity for Business,184,University of Colorado System,1183,23
+185,Cómo hablar bien en público,185,Universitat Autònoma de Barcelona,1184,55
+186,Dairy Production and Management,186,The Pennsylvania State University,1185,23
+187,Data Analysis and Interpretation,187,Wesleyan University,1186,100
+188,Data Analysis and Presentation Skills: the PwC Approach,188,PwC,1187,220
+189,Data Analysis with Python,189,IBM,1188,110
+190,Data Analytics for Lean Six Sigma,190,University of Amsterdam,1189,24
+191,Data Collection and Processing with Python,191,University of Michigan,1190,19
+192,Data Engineering on Google Cloud Platform _��_�__,192,Google Cloud,1191,3
+193,Data Engineering with Google Cloud,193,Google Cloud,1192,120
+194,"Data Engineering, Big Data, and Machine Learning on GCP",194,Google Cloud,1193,120
+195,Data Management for Clinical Research,195,Vanderbilt University,1194,42
+196,Data Mining,196,University of Illinois at Urbana-Champaign,1195,140
+197,Data Science,197,Johns Hopkins University,1196,830
+198,Data Science Math Skills,198,Duke University,1197,140
+199,Data Science Methodology,199,IBM,1198,89
+200,Data Science: Foundations using R,200,Johns Hopkins University,1199,740
+201,Data Science: Statistics and Machine Learning,201,Johns Hopkins University,1200,210
+202,Data Visualization and Communication with Tableau,202,Duke University,1201,130
+203,Data Visualization with Advanced Excel,203,PwC,1202,60
+204,Data Visualization with Python,204,IBM,1203,66
+205,Data Visualization with Tableau,205,"University of California, Davis",1204,96
+206,Data Warehousing for Business Intelligence,206,University of Colorado System,1205,140
+207,Data and Health Indicators in Public Health Practice,207,Johns Hopkins University,1206,18
+208,Data-driven Decision Making,208,PwC,1207,120
+209,Databases and SQL for Data Science,209,IBM,1208,110
+210,De-Mystifying Mindfulness,210,Universiteit Leiden,1209,150
+211,Decision-Making and Scenarios,211,University of Pennsylvania,1210,31
+212,Deep Learning,212,deeplearning.ai,1211,690
+213,Democracia y decisiones públicas. Introducción al análisis de políticas públicas,213,Universitat Autònoma de Barcelona,1212,44
+214,Dentistry 101,214,University of Michigan,1213,4.5
+215,Dermatology: Trip to skin,215,Novosibirsk State University ,1214,8.2
+216,Design Thinking for Innovation,216,University of Virginia,1215,240
+217,Design Thinking for the Greater Good: Innovation in the Social Sector,217,University of Virginia,1216,17
+218,Design and Interpretation of Clinical Trials,218,Johns Hopkins University,1217,67
+219,Design and Make Infographics (Project-Centered Course),219,Michigan State University,1218,97
+220,Design-Led Strategy: Design thinking for business strategy and entrepreneurship,220,The University of Sydney,1219,19
+221,Developing APIs with Google Cloud's Apigee API Platform,221,Google Cloud,1220,16
+222,Developing Applications with Google Cloud Platform,222,Google Cloud,1221,300
+223,Developing Applications with Google Cloud Platform _��_�__,223,Google Cloud,1222,4
+224,Developing Industrial Internet of Things,224,University of Colorado Boulder,1223,8
+225,Developing Your Musicianship,225,Berklee College of Music,1224,41
+226,Developing Your Musicianship,226,Berklee College of Music,1225,54
+227,Devenir entrepreneur du changement,227,Ticket for Change,1226,54
+228,Digital Advertising Strategy,228,University of Colorado Boulder,1227,9
+229,Digital Business Models,229,Lund University,1228,21
+230,Digital Manufacturing & Design Technology,230,University at Buffalo,1229,37
+231,Digital Marketing,231,University of Illinois at Urbana-Champaign,1230,380
+232,Digital Media and Marketing Strategies,232,University of Illinois at Urbana-Champaign,1231,57
+233,Digital Product Management,233,University of Virginia,1232,140
+234,Digital Product Management: Modern Fundamentals,234,University of Virginia,1233,58
+235,Dino 101: Dinosaur Paleobiology,235,University of Alberta,1234,35
+236,Discrete Optimization,236,The University of Melbourne,1235,40
+237,Diseño Instruccional: Aprendizaje activo y Pedagogía digital,237,Tecnológico de Monterrey,1236,4
+238,Diseño y Creación de un Emprendimiento Social,238,Pontificia Universidad Católica de Chile,1237,21
+239,"Divide and Conquer, Sorting and Searching, and Randomized Algorithms",239,Stanford University,1238,130
+240,Dog Emotion and Cognition,240,Duke University,1239,150
+241,Driving business towards the Sustainable Development Goals,241,Erasmus University Rotterdam,1240,5.6
+242,Drug Commercialization,242,University of California San Diego,1241,17
+243,Drug Discovery,243,University of California San Diego,1242,39
+244,Dynamic Public Speaking,244,University of Washington,1243,110
+245,EMT Foundations,245,University of Colorado System,1244,7.1
+246,Ecology: Ecosystem Dynamics and Conservation,246,American Museum of Natural History,1245,18
+247,Econometrics: Methods and Applications,247,Erasmus University Rotterdam,1246,110
+248,Economics of Money and Banking,248,Columbia University,1247,83
+249,Ecosystem Services: a Method for Sustainable Development,249,University of Geneva,1248,16
+250,Effective Compliance Programs,250,University of Pennsylvania,1249,3.4
+251,Egiptología (Egyptology),251,Universitat Autònoma de Barcelona,1250,46
+252,El Abogado del Futuro: Legaltech y la Transformación Digital del Derecho,252,Universidad Austral,1251,1.5
+253,Elastic Google Cloud Infrastructure: Scaling and Automation,253,Google Cloud,1252,57
+254,Electric Industry Operations and Markets,254,Duke University,1253,12
+255,Electronic Music Production,255,Berklee College of Music,1254,110
+256,Emerging Technologies: From Smartphones to IoT to Big Data,256,Yonsei University,1255,17
+257,"Energy Production, Distribution & Safety",257,University at Buffalo,1256,37
+258,Engineering Health: Introduction to Yoga and Physiology,258,New York University,1257,14
+259,Engineering Project Management: Initiating and Planning,259,Rice University,1258,23
+260,English Composition I,260,Duke University,1259,200
+261,English for Business and Entrepreneurship,261,University of Pennsylvania,1260,230
+262,English for Career Development,262,University of Pennsylvania,1261,760
+263,English for Journalism,263,University of Pennsylvania,1262,130
+264,English for Research Publication Purposes,264,Moscow Institute of Physics and Technology,1263,42
+265,"English for Science, Technology, Engineering, and Mathematics",265,University of Pennsylvania,1264,110
+266,Enterprise Architecture,266,Peter the Great St. Petersburg Polytechnic University,1265,2.4
+267,Entrepreneurial Finance: Strategy and Innovation,267,Duke University,1266,7.9
+268,Entrepreneurship,268,University of Pennsylvania,1267,110
+269,Entrepreneurship 1: Developing the Opportunity,269,University of Pennsylvania,1268,86
+270,Entrepreneurship 2: Launching your Start-Up,270,University of Pennsylvania,1269,38
+271,Entrepreneurship 3: Growth Strategies,271,University of Pennsylvania,1270,31
+272,Entrepreneurship Strategy: From Ideation to Exit,272,HEC Paris,1271,20
+273,Entrepreneurship: Launching an Innovative Business,273,"University of Maryland, College Park",1272,69
+274,Epidemics - the Dynamics of Infectious Diseases,274,The Pennsylvania State University,1273,45
+275,"Epidemics, Pandemics and Outbreaks",275,University of Pittsburgh,1274,23
+276,Epidemiology for Public Health,276,Imperial College London,1275,6.4
+277,Epidemiology in Public Health Practice,277,Johns Hopkins University,1276,31
+278,Epidemiology: The Basic Science of Public Health,278,The University of North Carolina at Chapel Hill,1277,130
+279,Epigenetic Control of Gene Expression,279,The University of Melbourne,1278,35
+280,Equine Welfare and Management,280,"University of California, Davis",1279,7.2
+281,Esports,281,"University of California, Irvine",1280,1.8
+282,Essential Epidemiologic Tools for Public Health Practice,282,Johns Hopkins University,1281,14
+283,Essential Google Cloud Infrastructure: Core Services,283,Google Cloud,1282,68
+284,Essential Google Cloud Infrastructure: Foundation,284,Google Cloud,1283,83
+285,Essentials in Clinical Simulations Across the Health Professions,285,The George Washington University,1284,4.1
+286,Essentials of Corporate Finance,286,The University of Melbourne,1285,54
+287,Essentials of Global Health,287,Yale University,1286,31
+288,Estadística y probabilidad,288,Universidad Nacional Autónoma de México,1287,27
+289,Evaluación educativa,289,Universidad Nacional Autónoma de México,1288,13
+290,"Everyday Excel, Part 1",290,University of Colorado Boulder,1289,11
+291,Everyday Parenting: The ABCs of Child Rearing,291,Yale University,1290,86
+292,Excel Skills for Business,292,Macquarie University,1291,240
+293,Excel Skills for Business: Advanced,293,Macquarie University,1292,39
+294,Excel Skills for Business: Essentials,294,Macquarie University,1293,200
+295,Excel Skills for Business: Intermediate I,295,Macquarie University,1294,76
+296,Excel Skills for Business: Intermediate II,296,Macquarie University,1295,39
+297,Excel to MySQL: Analytic Techniques for Business,297,Duke University,1296,490
+298,Excel/VBA for Creative Problem Solving,298,University of Colorado Boulder,1297,56
+299,"Excel/VBA for Creative Problem Solving, Part 1",299,University of Colorado Boulder,1298,54
+300,Executive Data Science,300,Johns Hopkins University,1299,170
+301,Explorando la Energía Sustentable,301,Pontificia Universidad Católica de Chile,1300,28
+302,Fashion as Design,302,The Museum of Modern Art,1301,180
+303,Feminism and Social Justice,303,"University of California, Santa Cruz",1302,18
+304,FinTech Law and Policy,304,Duke University,1303,9.7
+305,FinTech: Finance Industry Transformation and Regulation,305,The Hong Kong University of Science and Technology,1304,13
+306,"FinTech: Foundations, Payments, and Regulations",306,University of Pennsylvania,1305,12
+307,Finance & Quantitative Modeling for Analysts,307,University of Pennsylvania,1306,260
+308,Finance for Non-Finance Professionals,308,Rice University,1307,69
+309,Finance for Non-Financial Managers,309,Emory University,1308,12
+310,Financial Accounting Fundamentals,310,University of Virginia,1309,65
+311,Financial Acumen for Non-Financial Managers,311,University of Pennsylvania,1310,10
+312,Financial Engineering and Risk Management Part I,312,Columbia University,1311,100
+313,Financial Management,313,University of Illinois at Urbana-Champaign,1312,76
+314,Financial Markets,314,Yale University,1313,470
+315,Financial Markets and Investment Strategy,315,Indian School of Business,1314,60
+316,Financial Reporting,316,University of Illinois at Urbana-Champaign,1315,12
+317,Financial Technology (Fintech) Innovations,317,University of Michigan,1316,6.5
+318,Financing and Investing in Infrastructure,318,Universit_ Bocconi,1317,24
+319,Finanzas corporativas,319,Universidad Nacional Autónoma de México,1318,30
+320,Finanzas personales,320,Universidad Nacional Autónoma de México,1319,310
+321,Finding Purpose and Meaning In Life: Living for What Matters Most,321,University of Michigan,1320,36
+322,Fintech: Foundations & Applications of Financial Technology,322,University of Pennsylvania,1321,20
+323,First Step Korean,323,Yonsei University,1322,400
+324,Food & Beverage Management,324,Universit_ Bocconi,1323,57
+325,Forensic Accounting and Fraud Examination,325,West Virginia University,1324,42
+326,Formulación y evaluación de proyectos complejos,326,Universidad de los Andes,1325,4.4
+327,Foundational Finance for Strategic Decision Making,327,University of Michigan,1326,14
+328,Foundations of Business Strategy,328,University of Virginia,1327,63
+329,Foundations of Everyday Leadership,329,University of Illinois at Urbana-Champaign,1328,62
+330,Foundations of Global Health,330,Johns Hopkins University,1329,31
+331,Foundations of Management,331,IESE Business School,1330,64
+332,Foundations of Marketing Analytics,332,Emory University,1331,27
+333,Foundations of Positive Psychology,333,University of Pennsylvania,1332,89
+334,Foundations of Public Health Practice,334,Imperial College London,1333,3.2
+335,From Data to Insights with Google Cloud Platform,335,Google Cloud,1334,26
+336,From the Big Bang to Dark Energy,336,The University of Tokyo,1335,52
+337,Front-End Web Development with React,337,The Hong Kong University of Science and Technology,1336,45
+338,Front-End Web UI Frameworks and Tools: Bootstrap 4,338,The Hong Kong University of Science and Technology,1337,89
+339,Full Stack Web and Multiplatform Mobile App Development,339,The Hong Kong University of Science and Technology,1338,150
+340,Full-Stack Web Development with React,340,The Hong Kong University of Science and Technology,1339,140
+341,Functional Programming Principles in Scala,341,_cole Polytechnique Fédérale de Lausanne,1340,170
+342,Functional Programming in Scala,342,_cole Polytechnique Fédérale de Lausanne,1341,220
+343,Fundamental Neuroscience for Neuroimaging,343,Johns Hopkins University,1342,30
+344,Fundamentals of Accounting,344,University of Illinois at Urbana-Champaign,1343,39
+345,Fundamentals of Computing,345,Rice University,1344,200
+346,Fundamentals of Engineering Exam Review,346,Georgia Institute of Technology,1345,49
+347,Fundamentals of GIS,347,"University of California, Davis",1346,86
+348,Fundamentals of Graphic Design,348,California Institute of the Arts,1347,290
+349,Fundamentals of Immunology,349,Rice University,1348,20
+350,Fundamentals of Immunology: Innate Immunity and B-Cell Function,350,Rice University,1349,18
+351,Fundamentals of Music Theory,351,The University of Edinburgh,1350,180
+352,Fundamentals of Project Planning and Management,352,University of Virginia,1351,120
+353,Fundamentals of Quantitative Modeling,353,University of Pennsylvania,1352,110
+354,Fundamentals of Reinforcement Learning,354,University of Alberta,1353,22
+355,Fundamentals of Visualization with Tableau,355,"University of California, Davis",1354,81
+356,Fundamentos Empresariales,356,University of Pennsylvania,1355,25
+357,Fundamentos Estratégicos Empresariales,357,Universidad Nacional Autónoma de México,1356,56
+358,Fundamentos de Excel para Negocios,358,Universidad Austral,1357,150
+359,Fundamentos de Finanzas Empresariales,359,Universidad de los Andes,1358,110
+360,Fundamentos de la escritura,360,Tecnológico de Monterrey,1359,47
+361,Fundraising and Development,361,"University of California, Davis",1360,4.9
+362,Futures Thinking,362,Institute for the Future,1361,9.4
+363,G Suite Administration,363,Google Cloud,1362,10
+364,"GIS, Mapping, and Spatial Analysis",364,University of Toronto,1363,140
+365,Game Design and Development,365,Michigan State University,1364,100
+366,Game Theory,366,Stanford University,1365,260
+367,Gamification,367,University of Pennsylvania,1366,110
+368,Gender and Sexuality: Diversity and Inclusion in the Workplace,368,University of Pittsburgh,1367,14
+369,Genomic Data Science,369,Johns Hopkins University,1368,80
+370,Geographic Information Systems  (GIS),370,"University of California, Davis",1369,97
+371,Geopolitics of Europe,371,Sciences Po,1370,19
+372,Geopolítica y gobernanza global: riesgos y oportunidades,372,ESADE Business and Law School,1371,34
+373,Gestión de organizaciones efectivas,373,Pontificia Universidad Católica de Chile,1372,47
+374,Get Interactive: Practical Teaching with Technology,374,Bloomsbury Learning Exchange,1373,14
+375,Getting Started With Music Theory,375,Michigan State University,1374,59
+376,Getting Started with AWS Machine Learning,376,Amazon Web Services,1375,73
+377,Getting Started with Go,377,"University of California, Irvine",1376,59
+378,Getting Started with Google Kubernetes Engine,378,Google Cloud,1377,75
+379,Getting Started with Google Sheets,379,Google Cloud,1378,18
+380,Getting Started with SAS Programming,380,SAS,1379,22
+381,Global Diplomacy _ Diplomacy in the Modern World,381,SOAS University of London,1380,79
+382,Global Diplomacy: the United Nations in the World,382,SOAS University of London,1381,29
+383,Global Energy and Climate Policy,383,SOAS University of London,1382,10
+384,Global Environmental Management,384,Technical University of Denmark (DTU),1383,22
+385,Global Financial Markets and Instruments,385,Rice University,1384,37
+386,Global Financing Solutions  (by EDHEC and Société Générale),386,EDHEC Business School,1385,3.6
+387,Global Trends for Business and Society,387,University of Pennsylvania,1386,7.6
+388,"Globalization, Economic Growth and Stability",388,IE Business School,1387,44
+389,Good with Words: Writing and Editing,389,University of Michigan,1388,3.8
+390,Google Cloud Platform Big Data and Machine Learning Fundamentals,390,Google Cloud,1389,120
+391,Google Cloud Platform Fundamentals for AWS Professionals,391,Google Cloud,1390,36
+392,Google IT Automation with Python,392,Google,1391,93
+393,Google IT Support,393,Google,1392,350
+394,Grammar and Punctuation,394,"University of California, Irvine",1393,430
+395,Graphic Design Elements for Non-Designers,395,University of Colorado Boulder,1394,10
+396,Greek and Roman Mythology,396,University of Pennsylvania,1395,260
+397,Greening the Economy: Sustainable Cities,397,Lund University,1396,56
+398,Guitar for Beginners,398,Berklee College of Music,1397,210
+399,Gut Check: Exploring Your Microbiome,399,University of California San Diego,1398,62
+400,"HTML, CSS, and Javascript for Web Developers",400,Johns Hopkins University,1399,240
+401,Habilidades Gerenciales,401,Universidad Nacional Autónoma de México,1400,43
+402,Hacia una práctica constructivista en el aula,402,Pontificia Universidad Católica de Chile,1401,62
+403,Hardware Description Languages for FPGA Design,403,University of Colorado Boulder,1402,7.4
+404,Healing with the Arts,404,University of Florida,1403,39
+405,Health Informatics,405,Johns Hopkins University,1404,8.1
+406,Health Information Literacy for Data Analytics,406,"University of California, Davis",1405,5.4
+407,Healthcare Law,407,University of Pennsylvania,1406,1.7
+408,Healthcare Marketplace,408,University of Minnesota,1407,36
+409,Healthcare Organization Operations,409,Rutgers the State University of New Jersey,1408,5.5
+410,"High Performance Collaboration: Leadership, Teamwork, and Negotiation",410,Northwestern University,1409,46
+411,Homeland Security and Cybersecurity,411,University of Colorado System,1410,5.5
+412,"Hotel Management: Distribution, Revenue and Demand Management",412,ESSEC Business School,1411,28
+413,How Things Work: An Introduction to Physics,413,University of Virginia,1412,170
+414,How To Create a Website in a Weekend! (Project-Centered Course),414,The State University of New York,1413,140
+415,How to Start Your Own Business,415,Michigan State University,1414,34
+416,Human Resource Management: HR for People Managers,416,University of Minnesota,1415,98
+417,IBM AI Engineering,417,IBM,1416,140
+418,IBM AI Enterprise Workflow,418,IBM,1417,3.5
+419,IBM Applied AI,419,IBM,1418,220
+420,IBM Customer Engagement Specialist Professional Certificate,420,IBM,1419,3.3
+421,IBM Data Science,421,IBM,1420,480
+422,IT Fundamentals for Cybersecurity,422,IBM,1421,35
+423,IT Security: Defense against the digital dark arts,423,Google,1422,62
+424,"Identifying, Monitoring, and Analyzing Risk and Incident Response and Recovery",424,(ISC)²,1423,1.7
+425,Implementación del Marketing Mix,425,IE Business School,1424,23
+426,Implementing RPA with Cognitive Automation and Analytics,426,Automation Anywhere,1425,2.2
+427,Improve Your English Communication Skills,427,Georgia Institute of Technology,1426,610
+428,"Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization",428,deeplearning.ai,1427,270
+429,Improving Leadership & Governance in Nonprofit Organizations,429,Luther College at the University of Regina,1428,18
+430,In the Studio: Postwar Abstract Painting,430,The Museum of Modern Art,1429,79
+431,Indigenous Canada,431,University of Alberta,1430,51
+432,Industrial IoT on Google Cloud Platform,432,Google Cloud,1431,34
+433,Infectious Disease Modelling,433,Imperial College London,1432,1.6
+434,Influencer Marketing Strategy,434,Rutgers the State University of New Jersey,1433,12
+435,"Influencing: Storytelling, Change Management and Governance",435,Macquarie University,1434,22
+436,Information Security: Context and Introduction,436,"Royal Holloway, University of London",1435,32
+437,Information Visualization,437,New York University,1436,10
+438,Information_ __ystems,438,University of Minnesota,1437,16
+439,Initiating and Planning Projects,439,"University of California, Irvine",1438,180
+440,Innovation Management,440,Erasmus University Rotterdam,1439,40
+441,"Innovation Through Design: Think, Make, Break, Repeat",441,The University of Sydney,1440,10
+442,Innovation: From Creativity to Entrepreneurship,442,University of Illinois at Urbana-Champaign,1441,25
+443,Inspirational Leadership: Leading with Sense,443,HEC Paris,1442,72
+444,Inspired Leadership,444,Case Western Reserve University,1443,97
+445,Inspiring and Motivating Individuals,445,University of Michigan,1444,85
+446,Instructional Design Foundations and Applications,446,University of Illinois at Urbana-Champaign,1445,12
+447,Instructional Methods in Health Professions Education,447,University of Michigan,1446,9.7
+448,Integrative Health and Medicine,448,University of Minnesota,1447,14
+449,Intellectual Property Law,449,University of Pennsylvania,1448,8.7
+450,Interaction Design,450,University of California San Diego,1449,150
+451,Intercultural Management,451,ESCP Business School,1450,6.5
+452,International Business Essentials,452,University of London,1451,22
+453,International Cyber Conflicts,453,The State University of New York,1452,25
+454,International Humanitarian Law in Theory and Practice,454,Kalshoven-Gieskes Forum,1453,22
+455,International Law in Action: A Guide to the International Courts and Tribunals in The Hague,455,Universiteit Leiden,1454,36
+456,International Law in Action: the Arbitration of International Disputes,456,Universiteit Leiden,1455,19
+457,International Leadership and Organizational Behavior,457,Universit_ Bocconi,1456,41
+458,International Marketing & Cross Industry Growth,458,Yonsei University,1457,26
+459,International Organizations Management,459,University of Geneva,1458,20
+460,International Security Management,460,Erasmus University Rotterdam,1459,2.2
+461,International Women's Health and Human Rights,461,Stanford University,1460,35
+462,International migrations: a global issue,462,Sciences Po,1461,11
+463,Internet Connection: How to Get Online?,463,Cisco,1462,36
+464,Internet Giants: The Law and Economics of Media Platforms,464,The University of Chicago,1463,38
+465,Interviewing and Resume Writing in English,465,"University of Maryland, College Park",1464,66
+466,Introducción a Data Science: Programación Estadística con R,466,Universidad Nacional Autónoma de México,1465,140
+467,Introducción a la programación en Python I: Aprendiendo a programar con Python,467,Pontificia Universidad Católica de Chile,1466,100
+468,Introduction aux Droits de l__omme,468,University of Geneva,1467,46
+469,Introduction to Ableton Live,469,Berklee College of Music,1468,60
+470,Introduction to Artificial Intelligence (AI),470,IBM,1469,44
+471,Introduction to Big Data,471,University of California San Diego,1470,160
+472,Introduction to Blockchain Technologies,472,INSEAD,1471,16
+473,Introduction to Breast Cancer,473,Yale University,1472,27
+474,Introduction to Business Analytics: Communicating with Data,474,University of Illinois at Urbana-Champaign,1473,14
+475,Introduction to CSS3,475,University of Michigan,1474,84
+476,Introduction to Calculus,476,The University of Sydney,1475,53
+477,Introduction to Chemistry:  Reactions and Ratios,477,Duke University,1476,46
+478,Introduction to Classical Music,478,Yale University,1477,150
+479,Introduction to Cloud Computing,479,IBM,1478,2.6
+480,Introduction to Computer Programming,480,"Goldsmiths, University of London",1479,20
+481,Introduction to Computer Science and Programming,481,"Goldsmiths, University of London",1480,32
+482,Introduction to Corporate Finance,482,University of Pennsylvania,1481,130
+483,Introduction to Cyber Attacks,483,New York University,1482,27
+484,Introduction to Cyber Security,484,New York University,1483,32
+485,Introduction to Cybersecurity Tools & Cyber Attacks,485,IBM,1484,30
+486,Introduction to Data Analysis Using Excel,486,Rice University,1485,99
+487,Introduction to Data Science,487,IBM,1486,310
+488,Introduction to Data Science in Python,488,University of Michigan,1487,390
+489,Introduction to Dental Medicine,489,University of Pennsylvania,1488,25
+490,Introduction to Discrete Mathematics for Computer Science,490,National Research University Higher School of Economics,1489,75
+491,Introduction to Electronics,491,Georgia Institute of Technology,1490,110
+492,Introduction to Embedded Systems Software and Development Environments,492,University of Colorado Boulder,1491,41
+493,Introduction to Engineering Mechanics,493,Georgia Institute of Technology,1492,150
+494,Introduction to Environmental Law and Policy,494,The University of North Carolina at Chapel Hill,1493,34
+495,Introduction to Financial Accounting,495,University of Pennsylvania,1494,200
+496,Introduction to Forensic Science,496,"Nanyang Technological University, Singapore",1495,47
+497,Introduction to Game Development,497,Michigan State University,1496,79
+498,Introduction to Genetics and Evolution,498,Duke University,1497,74
+499,Introduction to Genomic Technologies,499,Johns Hopkins University,1498,42
+500,Introduction to HTML5,500,University of Michigan,1499,220
+501,Introduction to Imagemaking,501,California Institute of the Arts,1500,54
+502,Introduction to Intellectual Property,502,University of Pennsylvania,1501,6
+503,Introduction to International Criminal Law,503,Case Western Reserve University,1502,82
+504,Introduction to Marketing,504,University of Pennsylvania,1503,220
+505,Introduction to Mathematical Thinking,505,Stanford University,1504,270
+506,Introduction to Operations Management,506,University of Pennsylvania,1505,87
+507,Introduction to Personal Branding,507,University of Virginia,1506,140
+508,Introduction to Philosophy,508,The University of Edinburgh,1507,370
+509,Introduction to Portfolio Construction and Analysis with Python,509,EDHEC Business School,1508,11
+510,Introduction to Probability and Data,510,Duke University,1509,160
+511,Introduction to Programming in C,511,Duke University,1510,82
+512,Introduction to Programming with MATLAB,512,Vanderbilt University,1511,270
+513,Introduction to Psychology,513,Yale University,1512,270
+514,Introduction to Scripting in Python,514,Rice University,1513,49
+515,Introduction to Self-Driving Cars,515,University of Toronto,1514,39
+516,Introduction to Spreadsheets and Models,516,University of Pennsylvania,1515,76
+517,Introduction to Statistics & Data Analysis in Public Health,517,Imperial College London,1516,12
+518,Introduction to Sustainability,518,University of Illinois at Urbana-Champaign,1517,69
+519,Introduction to Systematic Review and Meta-Analysis,519,Johns Hopkins University,1518,67
+520,Introduction to Systems Engineering,520,UNSW Sydney (The University of New South Wales),1519,33
+521,"Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning",521,deeplearning.ai,1520,150
+522,Introduction to Thermodynamics: Transferring Energy from Here to There,522,University of Michigan,1521,4.1
+523,"Introduction to Trading, Machine Learning & GCP",523,New York Institute of Finance,1522,13
+524,Introduction to Typography,524,California Institute of the Arts,1523,72
+525,Introduction to User Experience Design,525,Georgia Institute of Technology,1524,87
+526,Introduction to User Experience Principles and Processes,526,University of Michigan,1525,16
+527,Introduction to Web Development,527,"University of California, Davis",1526,76
+528,Introduction to the Biology of Cancer,528,Johns Hopkins University,1527,110
+529,Introductory Human Physiology,529,Duke University,1528,270
+530,Introdução aos Princípios e Práticas da Gestão De Projetos,530,Universidade de São Paulo,1529,4.5
+531,Introdução _ Ciência da Computação com Python Parte 1,531,Universidade de São Paulo,1530,120
+532,Investment Management,532,University of Geneva,1531,99
+533,Investment Management with Python and Machine Learning,533,EDHEC Business School,1532,14
+534,Investment and Portfolio Management,534,Rice University,1533,49
+535,Japanese for beginners 1,535,Saint Petersburg State University,1534,4.4
+536,Java Programming and Software Engineering Fundamentals,536,Duke University,1535,380
+537,Java Programming: Solving Problems with Software,537,Duke University,1536,160
+538,Julia Scientific Programming,538,University of Cape Town,1537,22
+539,Kotlin for Java Developers,539,JetBrains,1538,37
+540,L'excellence opérationnelle en pratique,540,ESSEC Business School,1539,8
+541,"L'impact investing, la finance qui change le monde",541,ESSEC Business School,1540,6.3
+542,Leadership Development for Engineers,542,Rice University,1541,17
+543,Leadership in 21st Century Organizations,543,Copenhagen Business School,1542,34
+544,Leading Healthcare Quality and Safety,544,The George Washington University,1543,16
+545,Leading People and Teams,545,University of Michigan,1544,220
+546,"Leading for Equity, Diversity and Inclusion in Higher Education",546,University of Michigan,1545,5.9
+547,Leading: Human Resource Management and Leadership,547,Macquarie University,1546,16
+548,Learn Chinese: HSK Test Preparation,548,Peking University,1547,43
+549,Learn English,549,Tsinghua University,1548,22
+550,Learn English: Advanced Academic Speaking and Listening,550,"University of California, Irvine",1549,78
+551,Learn English: Advanced Grammar and Punctuation,551,"University of California, Irvine",1550,52
+552,Learn English: Intermediate Grammar,552,"University of California, Irvine",1551,120
+553,Learn Mandarin Chinese,553,Shanghai Jiao Tong University,1552,39
+554,Learn SQL Basics for Data Science,554,"University of California, Davis",1553,160
+555,Learn Spanish: Basic Spanish Vocabulary,555,"University of California, Davis",1554,80
+556,Learn to Program: The Fundamentals,556,University of Toronto,1555,180
+557,Learn to Speak Korean 1,557,Yonsei University,1556,120
+558,Learning to Teach Online,558,UNSW Sydney (The University of New South Wales),1557,68
+559,Legal Tech & Startups,559,IE Business School,1558,7.2
+560,Les Fondamentaux de la Négociation,560,ESSEC Business School,1559,10
+561,Liderazgo efectivo para el siglo XXI,561,Universidad de los Andes,1560,23
+562,Linear Circuits 1: DC Analysis,562,Georgia Institute of Technology,1561,29
+563,Love as a Force for Social Justice,563,Stanford University,1562,14
+564,Machine Learning,564,University of Washington,1563,290
+565,Machine Learning,565,Stanford University,1564,3.2
+566,Machine Learning Foundations: A Case Study Approach,566,University of Washington,1565,240
+567,Machine Learning and Reinforcement Learning in Finance,567,New York University,1566,29
+568,Machine Learning for All,568,University of London,1567,19
+569,Machine Learning for Business Professionals,569,Google Cloud,1568,58
+570,Machine Learning for Trading,570,Google Cloud,1569,15
+571,Machine Learning with Python,571,IBM,1570,120
+572,Machine Learning with TensorFlow on Google Cloud Platform,572,Google Cloud,1571,72
+573,Magic in the Middle Ages,573,Universitat de Barcelona,1572,78
+574,Making Architecture,574,IE School of Architecture & Design,1573,43
+575,Management of Fashion and Luxury Companies,575,Universit_ Bocconi,1574,120
+576,Managerial Accounting Fundamentals,576,University of Virginia,1575,11
+577,Managerial Economics and Business Analysis,577,University of Illinois at Urbana-Champaign,1576,55
+578,Managing Innovation and Design Thinking,578,HEC Paris,1577,23
+579,Managing Project Risks and Changes,579,"University of California, Irvine",1578,71
+580,Managing Social and Human Capital,580,University of Pennsylvania,1579,27
+581,Managing Your Health: The Role of Physical Therapy and Exercise,581,University of Toronto,1580,47
+582,Market Research,582,"University of California, Davis",1581,22
+583,Marketing Digital,583,Universidade de São Paulo,1582,81
+584,Marketing Digital,584,Universidad Austral,1583,39
+585,Marketing Gerencial,585,Universidad de Chile,1584,49
+586,Marketing Mix Implementation,586,IE Business School,1585,93
+587,Marketing Strategy,587,IE Business School,1586,57
+588,Marketing Verde,588,Universidad de los Andes,1587,58
+589,Marketing con Redes Sociales,589,Tecnológico de Monterrey,1588,60
+590,Marketing in a Digital World,590,University of Illinois at Urbana-Champaign,1589,310
+591,Mastering Data Analysis in Excel,591,Duke University,1590,280
+592,Mastering Final Cut Pro,592,LearnQuest,1591,8.4
+593,Mastering Software Development in R,593,Johns Hopkins University,1592,52
+594,Materials Science: 10 Things Every Engineer Should Know,594,"University of California, Davis",1593,48
+595,Mathematics for Data Science,595,National Research University Higher School of Economics,1594,12
+596,Mathematics for Machine Learning,596,Imperial College London,1595,150
+597,Mathematics for Machine Learning: Linear Algebra,597,Imperial College London,1596,140
+598,Mathematics for Machine Learning: Multivariate Calculus,598,Imperial College London,1597,51
+599,Mathematics for Machine Learning: PCA,599,Imperial College London,1598,33
+600,Medical Cannabis: The Health Effects of THC and CBD,600,University of Colorado Boulder,1599,4.8
+601,Medical Neuroscience,601,Duke University,1600,170
+602,Memoir and Personal Essay: Write About Yourself,602,Wesleyan University,1601,13
+603,Methods and Statistics in Social Sciences,603,University of Amsterdam,1602,260
+604,Microeconomics Principles,604,University of Illinois at Urbana-Champaign,1603,73
+605,Microeconomics: The Power of Markets,605,University of Pennsylvania,1604,34
+606,Mindshift: Break Through Obstacles to Learning and Discover Your Hidden Potential,606,McMaster University,1605,230
+607,Miracles of Human Language: An Introduction to Linguistics,607,Universiteit Leiden,1606,120
+608,Model Thinking,608,University of Michigan,1607,130
+609,Modeling Risk and Realities,609,University of Pennsylvania,1608,36
+610,Modern Art & Ideas,610,The Museum of Modern Art,1609,310
+611,Modern Big Data Analysis with SQL,611,Cloudera,1610,14
+612,"Modern Robotics:  Mechanics, Planning, and Control",612,Northwestern University,1611,21
+613,Modernizing Data Lakes and Data Warehouses with GCP,613,Google Cloud,1612,9.1
+614,Moral Foundations of Politics,614,Yale University,1613,100
+615,More Introduction to Financial Accounting,615,University of Pennsylvania,1614,40
+616,Mountains 101,616,University of Alberta,1615,44
+617,Municipal Solid Waste Management in Developing Countries,617,_cole Polytechnique Fédérale de Lausanne,1616,59
+618,Music Business,618,Berklee College of Music,1617,42
+619,Music Business Foundations,619,Berklee College of Music,1618,34
+620,Music Production,620,Berklee College of Music,1619,70
+621,Nanotechnology: A Maker__ Course,621,Duke University,1620,21
+622,Natural Language Processing in TensorFlow,622,deeplearning.ai,1621,40
+623,Negociación exitosa: Estrategias y habilidades esenciales (en español),623,University of Michigan,1622,95
+624,"Negotiation, Mediation and Conflict Resolution",624,ESSEC Business School,1623,22
+625,Networking and Security Architecture with VMware NSX,625,VMware,1624,17
+626,Networking in Google Cloud,626,Google Cloud,1625,290
+627,Neural Networks and Deep Learning,627,deeplearning.ai,1626,630
+628,Neurolinguistics,628,Saint Petersburg State University,1627,41
+629,New Approaches to Countering Terror: Countering Violent Extremism,629,"University of Maryland, College Park",1628,12
+630,Newborn Baby Care,630,University of Colorado System,1629,5.3
+631,Nutrición y obesidad: control de sobrepeso,631,Universidad Nacional Autónoma de México,1630,100
+632,Nutrition and Lifestyle in Pregnancy,632,Ludwig-Maximilians-Universität München (LMU),1631,35
+633,Object Oriented Java Programming: Data Structures and Beyond,633,University of California San Diego,1632,250
+634,Object Oriented Programming in Java,634,Duke University,1633,330
+635,Object-Oriented Data Structures in C++,635,University of Illinois at Urbana-Champaign,1634,21
+636,Object-Oriented Design,636,University of Alberta,1635,33
+637,Oil & Gas Industry Operations and Markets,637,Duke University,1636,57
+638,"Open Source Software Development, Linux and Git",638,The Linux Foundation,1637,13
+639,Operating Systems and You: Becoming a Power User,639,Google,1638,76
+640,Operations Analytics,640,University of Pennsylvania,1639,80
+641,Optical Engineering,641,University of Colorado Boulder,1640,6.2
+642,Organizational Leadership,642,Northwestern University,1641,92
+643,Osteoarchaeology: The Truth in Our Bones,643,Universiteit Leiden,1642,22
+644,Palliative Care: It's Not Just Hospice Anymore,644,University of Colorado System,1643,3.2
+645,Palo Alto Networks Cybersecurity,645,Palo Alto Networks,1644,9.1
+646,"Parallel, Concurrent, and Distributed Programming in Java",646,Rice University,1645,30
+647,Particle Physics: an Introduction,647,University of Geneva,1646,42
+648,Patient Safety,648,Johns Hopkins University,1647,8.8
+649,Patrocinio Deportivo,649,Universitat Autònoma de Barcelona,1648,12
+650,People Analytics,650,University of Pennsylvania,1649,84
+651,Perfect Tenses and Modals,651,"University of California, Irvine",1650,79
+652,Periodismo digital y combate a las fake news,652,Universidad Nacional Autónoma de México,1651,8.9
+653,Photography Basics and Beyond: From Smartphone to DSLR,653,Michigan State University,1652,160
+654,Plant Bioinformatic Methods,654,University of Toronto,1653,83
+655,Politics and Economics of International Energy,655,Sciences Po,1654,34
+656,Positive Psychiatry and Mental Health,656,The University of Sydney,1655,72
+657,Positive Psychology,657,The University of North Carolina at Chapel Hill,1656,180
+658,Positive Psychology: Applications and Interventions,658,University of Pennsylvania,1657,23
+659,Positive Psychology: Martin E. P. Seligman__ Visionary Science,659,University of Pennsylvania,1658,50
+660,Positive Psychology: Resilience Skills,660,University of Pennsylvania,1659,40
+661,Power Electronics,661,University of Colorado Boulder,1660,67
+662,Practical Data Science with MATLAB,662,MathWorks,1661,10
+663,Practical Time Series Analysis,663,The State University of New York,1662,39
+664,Preparing for the Google Cloud Associate Cloud Engineer Exam,664,Google Cloud,1663,22
+665,Preparing to Manage Human Resources,665,University of Minnesota,1664,68
+666,"Presentation Skills: Speechwriting, Slides and Delivery",666,E-Learning Development Fund,1665,47
+667,Pricing Strategy Optimization,667,BCG,1666,20
+668,Primeros Auxilios Psicológicos (PAP),668,Universitat Autònoma de Barcelona,1667,280
+669,Private Equity and Venture Capital,669,Universit_ Bocconi,1668,79
+670,Probabilistic Graphical Models 1: Representation,670,Stanford University,1669,68
+671,Probability and Statistics: To p or not to p?,671,University of London,1670,36
+672,Process Mining: Data science in Action,672,Eindhoven University of Technology,1671,39
+673,"Programming Foundations with JavaScript, HTML and CSS",673,Duke University,1672,250
+674,Programming Fundamentals,674,Duke University,1673,19
+675,Programming for Everybody (Getting Started with Python),675,University of Michigan,1674,1.3
+676,Programming with Google Go,676,"University of California, Irvine",1675,18
+677,Project Execution,677,"University of California, Irvine",1676,70
+678,Project Launch,678,"University of California, Irvine",1677,190
+679,Project Management & Other Tools for Career Development,679,"University of California, Irvine",1678,440
+680,Project Management Principles and Practices,680,"University of California, Irvine",1679,230
+681,Psychological First Aid,681,Johns Hopkins University,1680,190
+682,Public Policy Challenges of the 21st Century,682,University of Virginia,1681,52
+683,Python Basics,683,University of Michigan,1682,110
+684,Python Classes and Inheritance,684,University of Michigan,1683,21
+685,Python Data Structures,685,University of Michigan,1684,420
+686,"Python Functions, Files, and Dictionaries",686,University of Michigan,1685,26
+687,Python and Statistics for Financial Analysis,687,The Hong Kong University of Science and Technology,1686,41
+688,Python for Data Science and AI,688,IBM,1687,170
+689,Python for Everybody,689,University of Michigan,1688,1.5
+690,Quantitative Methods,690,University of Amsterdam,1689,69
+691,Queering Identities: LGBTQ+ Sexuality and Gender Identity,691,University of Colorado System,1690,3
+692,R Programming,692,Johns Hopkins University,1691,480
+693,"Ready, Set, Future! Introduction to Futures Thinking",693,Institute for the Future,1692,7.7
+694,Recommender Systems,694,University of Minnesota,1693,29
+695,"Recruiting, Hiring, and Onboarding Employees",695,University of Minnesota,1694,35
+696,Reinforcement Learning,696,University of Alberta,1695,23
+697,Renewable Energy and Green Building Entrepreneurship,697,Duke University,1696,24
+698,Reporting extra-financier et stratégie RSE,698,ESSEC Business School,1697,5.2
+699,Requirements Engineering: Secure Software  Specifications,699,University of Colorado System,1698,7.2
+700,Research Data Management and Sharing,700,The University of Edinburgh,1699,16
+701,"Resilience in Children Exposed to Trauma, Disaster and War: Global Perspectives",701,University of Minnesota,1700,15
+702,Responsive Website Development and Design,702,"Goldsmiths, University of London",1701,170
+703,Rethinking International Tax Law,703,Universiteit Leiden,1702,36
+704,Revisão Sistemática e Meta-análise,704,Universidade Estadual de Campinas,1703,17
+705,Robotics,705,University of Pennsylvania,1704,120
+706,Roman Architecture,706,Yale University,1705,30
+707,Russian Alphabet,707,Saint Petersburg State University,1706,3.2
+708,Russian for beginners _1. ____кий _з_к: A1,708,Saint Petersburg State University,1707,7
+709,Réussir le Changement,709,ESSEC Business School,1708,33
+710,SAS Programmer,710,SAS,1709,370
+711,SAS Visual Business Analytics,711,SAS,1710,2.6
+712,SQL for Data Science,712,"University of California, Davis",1711,160
+713,Sales Operations/Management,713,West Virginia University,1712,5.6
+714,Sales Training for High Performing Teams,714,HubSpot Academy,1713,16
+715,Sample-based Learning Methods,715,University of Alberta,1714,6.8
+716,Scaling Operations: Linking Strategy and Execution,716,Northwestern University,1715,12
+717,School Health for Children and Adolescents,717,University of Colorado System,1716,9.1
+718,Science of Exercise,718,University of Colorado Boulder,1717,140
+719,Search Engine Optimization Fundamentals,719,"University of California, Davis",1718,47
+720,Secure Coding Practices,720,"University of California, Davis",1719,6.4
+721,Security & Safety Challenges in a Globalized World,721,Universiteit Leiden,1720,14
+722,Security in Google Cloud Platform,722,Google Cloud,1721,300
+723,Self-Driving Cars,723,University of Toronto,1722,39
+724,Sequence Models,724,deeplearning.ai,1723,14
+725,Sexualidad...mucho más que sexo,725,Universidad de los Andes,1724,110
+726,Sharpened Visions: A Poetry Workshop,726,California Institute of the Arts,1725,61
+727,Site Reliability Engineering: Measuring and Managing Reliability,727,Google Cloud,1726,16
+728,Six Sigma Green Belt,728,University System of Georgia,1727,18
+729,Six Sigma and the Organization (Advanced),729,University System of Georgia,1728,15
+730,"Sleep: Neurobiology, Medicine, and Society",730,University of Michigan,1729,20
+731,Smart Cities _ Management of Smart Urban Infrastructures,731,_cole Polytechnique Fédérale de Lausanne,1730,22
+732,Social Entrepreneurship,732,Copenhagen Business School,1731,13
+733,Social Media Marketing,733,Northwestern University,1732,130
+734,"Social Norms, Social Change I",734,University of Pennsylvania,1733,78
+735,Social Policy for Social Services & Health Practitioners,735,Columbia University,1734,4.2
+736,Social Psychology,736,Wesleyan University,1735,220
+737,Social and Economic Networks:  Models and Analysis,737,Stanford University,1736,42
+738,Software Design and Architecture,738,University of Alberta,1737,60
+739,Software Development Lifecycle,739,University of Minnesota,1738,34
+740,Software Processes and Agile Practices,740,University of Alberta,1739,60
+741,Software Product Management,741,University of Alberta,1740,110
+742,Solar Energy Basics,742,The State University of New York,1741,17
+743,Songwriting: Writing the Lyrics,743,Berklee College of Music,1742,68
+744,Soporte de Tecnologías de la Información de Google,744,Crece con Google,1743,8.8
+745,Spacecraft Dynamics and Control,745,University of Colorado Boulder,1744,12
+746,Spanish Vocabulary: Meeting People,746,"University of California, Davis",1745,71
+747,"Speak English Professionally: In Person, Online & On the Phone",747,Georgia Institute of Technology,1746,430
+748,Sports Marketing,748,Northwestern University,1747,12
+749,Sports and Society,749,Duke University,1748,16
+750,Stanford Introduction to Food and Health,750,Stanford University,1749,370
+751,Stanford's Short Course on Breastfeeding,751,Stanford University,1750,17
+752,Statistical Analysis with R for Public Health,752,Imperial College London,1751,16
+753,Statistics with Python,753,University of Michigan,1752,34
+754,Statistics with R,754,Duke University,1753,220
+755,Stories of Infection,755,Stanford University,1754,28
+756,Strategic Business Analytics,756,ESSEC Business School,1755,60
+757,Strategic Business Management - Microeconomics,757,"University of California, Irvine",1756,9.5
+758,Strategic Leadership and Management,758,University of Illinois at Urbana-Champaign,1757,100
+759,Strategic Management,759,Copenhagen Business School,1758,58
+760,Strategic Management and Innovation,760,Copenhagen Business School,1759,68
+761,Strategic Sales Management,761,Fundação Instituto de Administração,1760,9.2
+762,Strategising: Management for Global Competitive Advantage,762,Macquarie University,1761,30
+763,Strategy and Sustainability,763,IESE Business School,1762,11
+764,Structuring Machine Learning Projects,764,deeplearning.ai,1763,220
+765,Success,765,University of Pennsylvania,1764,38
+766,Successful Negotiation: Essential Strategies and Skills,766,University of Michigan,1765,750
+767,Summary Statistics in Public Health,767,Johns Hopkins University,1766,11
+768,Supply Chain Analytics,768,Rutgers the State University of New Jersey,1767,7.9
+769,Supply Chain Finance and Blockchain Technology,769,New York Institute of Finance,1768,4.9
+770,Supply Chain Logistics,770,Rutgers the State University of New Jersey,1769,66
+771,Supply Chain Management,771,Rutgers the State University of New Jersey,1770,82
+772,Supply Chain Operations,772,Rutgers the State University of New Jersey,1771,24
+773,Supply Chain Principles,773,Georgia Institute of Technology,1772,29
+774,Supporting children with difficulties in reading and writing,774,UCL Institute of Education,1773,50
+775,Survey Data Collection and Analytics,775,"University of Maryland, College Park",1774,45
+776,Sustainable Tourism _ promoting environmental public health,776,University of Copenhagen,1775,9.4
+777,Swift 5 iOS Application Developer,777,LearnQuest,1776,3.9
+778,System Administration and IT Infrastructure Services,778,Google,1777,62
+779,Systems Biology and Biotechnology,779,Icahn School of Medicine at Mount Sinai,1778,48
+780,Systems Thinking In Public Health,780,Johns Hopkins University,1779,33
+781,"TESOL Certificate, Part 1: Teach English Now!",781,Arizona State University,1780,100
+782,"TESOL Certificate, Part 2: Teach English Now!",782,Arizona State University,1781,62
+783,Teach English Now! Foundational Principles,783,Arizona State University,1782,81
+784,Teach English Now! Teaching Language Online,784,Arizona State University,1783,8.5
+785,Teaching Character and Creating Positive Classrooms,785,Relay Graduate School of Education,1784,53
+786,Teamwork Skills: Communicating Effectively in Groups,786,University of Colorado Boulder,1785,49
+787,Technical Support Fundamentals,787,Google,1786,280
+788,TensorFlow in Practice,788,deeplearning.ai,1787,170
+789,TensorFlow: Data and Deployment,789,deeplearning.ai,1788,12
+790,Terrorism and Counterterrorism: Comparing Theory and Practice,790,Universiteit Leiden,1789,90
+791,The Addicted Brain,791,Emory University,1790,130
+792,The Art of Music Production,792,Berklee College of Music,1791,47
+793,The Art of Sales: Mastering the Selling Process,793,Northwestern University,1792,23
+794,The Arts and Science of Relationships: Understanding Human Needs,794,University of Toronto,1793,73
+795,The Bits and Bytes of Computer Networking,795,Google,1794,130
+796,The Business of Health Care,796,University of Pennsylvania,1795,22
+797,The Business of Music Production,797,Berklee College of Music,1796,84
+798,The Changing Global Order,798,Universiteit Leiden,1797,23
+799,The Cycle: Management of Successful Arts and Cultural Organizations,799,"University of Maryland, College Park",1798,11
+800,The DIY Musician,800,Berklee College of Music,1799,120
+801,The Data Scientist__ Toolbox,801,Johns Hopkins University,1800,420
+802,The Economics of Health Care Delivery,802,University of Pennsylvania,1801,7.2
+803,The Global Financial Crisis,803,Yale University,1802,84
+804,The Horse Course: Introduction to Basic Care and Management,804,University of Florida,1803,29
+805,The Manager's Toolkit: A Practical Guide to Managing People at Work,805,"Birkbeck, University of London",1804,47
+806,"The Modern World, Part One: Global History from 1760 to 1910",806,University of Virginia,1805,130
+807,"The Modern World, Part Two: Global History since 1910",807,University of Virginia,1806,47
+808,The Oral Cavity: Portal to Health and Disease,808,University of Pennsylvania,1807,9.4
+809,The Power of Macroeconomics: Economic Principles in the Real World,809,"University of California, Irvine",1808,180
+810,The Power of Microeconomics: Economic Principles in the Real World,810,"University of California, Irvine",1809,120
+811,The Pronunciation of American English,811,"University of California, Irvine",1810,1.7
+812,The Science of Gastronomy,812,The Hong Kong University of Science and Technology,1811,50
+813,The Science of Stem Cells,813,American Museum of Natural History,1812,12
+814,The Science of Success: What Researchers Know that You Should Know,814,University of Michigan,1813,59
+815,The Science of Training Young Athletes,815,University of Florida,1814,13
+816,The Science of Well-Being,816,Yale University,1815,2.5
+817,The Singer Songwriter,817,Berklee College of Music,1816,320
+818,The Social Context of Mental Health and Illness,818,University of Toronto,1817,19
+819,The Strategy of Content Marketing,819,"University of California, Davis",1818,100
+820,"The Sustainable Development Goals _ A global, transdisciplinary vision for the future",820,University of Copenhagen,1819,26
+821,The Teacher and Social and Emotional Learning (SEL),821,University of Colorado Boulder,1820,5.2
+822,The Technology of Music Production,822,Berklee College of Music,1821,28
+823,The Truth About Cats and Dogs,823,The University of Edinburgh,1822,33
+824,The hidden value _ Lean in manufacturing and services,824,_cole des Ponts ParisTech,1823,14
+825,Think Again I: How to Understand Arguments,825,Duke University,1824,200
+826,Tools for Data Science,826,IBM,1825,120
+827,Trading Strategies in Emerging Markets,827,Indian School of Business,1826,68
+828,"Transmedia Storytelling: Narrative worlds, emerging technologies, and global audiences",828,UNSW Sydney (The University of New South Wales),1827,45
+829,Tricky American English Pronunciation,829,"University of California, Irvine",1828,110
+830,Troubles du spectre de l'autisme : diagnostic,830,University of Geneva,1829,5.4
+831,U.S. Federal Taxation,831,University of Illinois at Urbana-Champaign,1830,12
+832,UCI Project Management,832,"University of California, Irvine",1831,44
+833,UI / UX Design,833,California Institute of the Arts,1832,68
+834,UX Design Fundamentals,834,California Institute of the Arts,1833,25
+835,Understanding Cancer Metastasis,835,Johns Hopkins University,1834,29
+836,Understanding Clinical Research: Behind the Statistics,836,University of Cape Town,1835,78
+837,Understanding Einstein: The Special Theory of Relativity,837,Stanford University,1836,89
+838,Understanding Medical Research: Your Facebook Friend is Wrong,838,Yale University,1837,24
+839,Understanding Modern Finance,839,American Institute of Business and Economics,1838,11
+840,Understanding Plants - Part I: What a Plant Knows,840,Tel Aviv University,1839,49
+841,Understanding Research Methods,841,SOAS University of London,1840,120
+842,Understanding and Visualizing Data with Python,842,University of Michigan,1841,30
+843,Understanding the Brain: The Neurobiology of Everyday Life,843,The University of Chicago,1842,130
+844,Unity Certified Programmer Exam Preparation,844,Unity,1843,6.1
+845,Unity XR: How to Build AR and VR Apps,845,Unity,1844,12
+846,University Teaching,846,The University of Hong Kong,1845,9.5
+847,Unraveling the Cycling City,847,University of Amsterdam,1846,3.9
+848,User Experience Research and Design,848,University of Michigan,1847,23
+849,User Interface Design,849,University of Minnesota,1848,43
+850,Using Databases with Python,850,University of Michigan,1849,220
+851,Using Python to Access Web Data,851,University of Michigan,1850,310
+852,Using Python to Interact with the Operating System,852,Google,1851,19
+853,Value Chain Management,853,University of Illinois at Urbana-Champaign,1852,63
+854,Version Control with Git,854,Atlassian,1853,40
+855,Viral Marketing and How to Craft Contagious Content,855,University of Pennsylvania,1854,150
+856,Virtual Reality,856,"Goldsmiths, University of London",1855,37
+857,Virtual Teacher,857,"University of California, Irvine",1856,23
+858,Vital Signs: Understanding What the Body Is Telling Us,858,University of Pennsylvania,1857,190
+859,Web Applications for Everybody,859,University of Michigan,1858,120
+860,Web Design for Everybody: Basics of Web Development & Coding,860,University of Michigan,1859,280
+861,Weight Management: Beyond Balancing Calories,861,Emory University,1860,34
+862,What Is Contemporary Art?,862,The Museum of Modern Art,1861,120
+863,What future for education?,863,UCL Institute of Education,1862,35
+864,What is Compliance?,864,University of Pennsylvania,1863,6.2
+865,What is Data Science?,865,IBM,1864,260
+866,What is Social?,866,Northwestern University,1865,94
+867,Wine Tasting: Sensory Techniques for Wine Analysis,867,"University of California, Davis",1866,32
+868,Wonders of Ancient Egypt,868,University of Pennsylvania,1867,17
+869,Write A Feature Length Screenplay For Film Or Television,869,Michigan State University,1868,12
+870,Write Professional Emails in English,870,Georgia Institute of Technology,1869,270
+871,Write Your First Novel,871,Michigan State University,1870,18
+872,Writing in the Sciences,872,Stanford University,1871,140
+873,e-Learning Ecologies: Innovative Approaches to Teaching and Learning for the Digital Age,873,University of Illinois at Urbana-Champaign,1872,17
+874,iOS App Development with Swift,874,University of Toronto,1873,76
